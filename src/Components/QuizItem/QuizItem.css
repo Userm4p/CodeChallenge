@@ -1,0 +1,17 @@
+h6{
+    text-shadow: 2px 4px 10px rgb(42, 73, 247);
+}
+
+.d1   {
+    justify-items: center;
+    border-radius: 10px;
+    justify-items: center;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.p1 { 
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}

@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+.Question {
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    border-radius: 10px;
+    padding: 10%;
+    border: 1px solid hsla(0, 0%, 0%, 0.397);
+    margin: auto;
+    margin-top: 5%;
+    max-width: 70%;
+    background-color: aliceblue;
+    box-shadow: 2px 4px 10px 4px rgba(66, 65, 64, 0.788);
+}
+
+.good {
+    background-color: rgb(200, 255, 155);
+    margin-right: 10%;
+}
+
+.bad{
+    margin-right: 10%;
+    background-color: rgb(255, 106, 106);
+}
+
+.btn {
+    margin: 20px;
+}
+
+.finish {
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    justify-items: center;
+    border-radius: 10px;
+    padding: 1.5rem;
+    border: 1px solid hsla(0, 0%, 0%, 0.397);
+    margin: auto;
+    margin-top: 5%;
+    max-width: 70%;
+    background-color: aliceblue;
+    box-shadow: 2px 4px 10px 4px rgba(66, 65, 64, 0.788);
+}
+
+.pf {
+    text-align: left;
+}
+
+.loading {
+    text-align: center;
+    margin-top: 20%;
+}

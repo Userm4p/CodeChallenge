@@ -1,0 +1,24 @@
+.mainpage {
+  text-align: center;
+    align-items: center;
+    padding: 10px;
+    justify-items: center;
+    border-radius: 10px;
+    padding: 10%;
+    border: 1px solid hsla(0, 0%, 0%, 0.397);
+    margin: auto;
+    margin-top: 5%;
+    max-width: 70%;
+    
+    background-color: aliceblue;
+    box-shadow: 2px 4px 10px 4px rgba(66, 65, 64, 0.788);
+}
+.p {
+  margin-top: 10%;
+  justify-content: center;
+}
+
+.Begin {
+  margin-top: 10rem;
+  justify-content: center;
+}
